@@ -1,0 +1,13 @@
+{"smooth": 14, 
+ "spl_cand": 30, 
+ "dist_min": 0.1, 
+ "dist_max": 0.3, 
+ "num_cand": 16, 
+ "spline_type": "pchip", 
+ "spline_val": 0, 
+ "spline_type_smooth": "cubic", 
+ "spline_val_smooth": "clamped", 
+ "pt_dist": 0.4, 
+ "tl_dist": 0.4,
+ "dist": 16, 
+ "endpiece_index": 1}
