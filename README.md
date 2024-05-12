@@ -25,8 +25,3 @@ In the output directory a new directory _date_results_ will be created with the 
 
 
 <sub>Hint: Install torch before installing _requirements.txt_.</sub>
-
-
-
-
-`
