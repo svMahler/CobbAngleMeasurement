@@ -15,7 +15,7 @@ Accepted image formats are: _.png_, _.jpg_, _.dcm_
 
 
 ### Output format
-In the output directory a new directory _`<date>`_results_ will be created with the following structure:
+In the output directory a new directory _date_results_ will be created with the following structure:
 
 - _normals_img_: images of the normals used to calculate the Cobb Angle
 - _predictions_img_: images of the predicted bounding boxes
