@@ -24,7 +24,7 @@ In the output directory a new directory _`<date>`_results_ will be created with 
 - _errors.csv_: the errors that occurred during the calculation
 
 
-^Hint: Install torch before installing _requirements.txt_.^
+<sub>Hint: Install torch before installing _requirements.txt_.</sub>
 
 
 
